@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioCelsoGiovanelli&show_icons=true&theme=transparent)
 
-
-
-
 ![Snake animation](https://github.com/MarioCelsoGiovanelli/MarioCelsoGiovanelli/blob/output/github-contribution-grid-snake.svg)
